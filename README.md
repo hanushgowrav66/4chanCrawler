@@ -1,5 +1,5 @@
 # _4chan Crawler_
-# Reddit Data Collection Project
+# 4Chan Data Collection Project
 
 ## Overview
 This project is designed to collect and analyze threads and posts from various 4chan boards. The data is fetched using the 4chan API and stored in a local MongoDB database for further analysis. The project uses Python for data collection and MongoDB for data storage.
